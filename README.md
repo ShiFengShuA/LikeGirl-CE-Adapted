@@ -45,5 +45,5 @@
 ## 更新日志：
 
 ### CE-Adapted-1.0.0
-- 以Cleanwn的二次开发版为基础代码，向社区版兼容后的适配版
+- 以Cleanwn的二次开发版为基础代码，向CE-1.0.4社区版兼容后的适配版
 - 基础代码来源于 https://github.com/Cleanwn/LikeGirl
