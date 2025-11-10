@@ -50,5 +50,4 @@
 - 3.目前适配版与原项目相比的新增功能：
 - 相册界面单卡片可显示多张照片，前端大多数界面的图片均可使用URL/绝对路径/相对路径，后台双账号，前端音乐播放器，Live2D，在线配置数据库信息以及导入。
 - 4.因为基础代码不是社区版，适配版的数据库与社区版完全不兼容，所以另外建了一个代码仓库。
-- 5.基础代码来源于 https://github.com/Cleanwn/LikeGirl
-- 6.基础代码开发者 https://github.com/Cleanwn
+- 5.二开代码来源于 https://github.com/Cleanwn/LikeGirl
