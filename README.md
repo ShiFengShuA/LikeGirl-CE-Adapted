@@ -46,6 +46,10 @@
 
 ## 更新日志：
 
+### CE-Adapted-1.0.2
+- 更换新的API
+- 注：目前尚未找到可长期使用的稳定API，所以API暂时换成了原项目的中转API
+
 ### CE-Adapted-1.0.1
 - 1.修复了因`loveImg.css`文件中的一个重复`#pjax-container`元素，导致的前端底部出现大片空白 (`Style/css/loveImg.css`)
 
