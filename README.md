@@ -46,6 +46,10 @@
 
 ## 更新日志：
 
+### CE-Adapted-1.0.2-API
+- 更换API，原项目官方API已不再提供数据支持 (改动：`leaving.php` | 95~133行)
+- 部分补丁未与原项目`https://gitee.com/kiCode111/likegirl-stable`以及社区`https://github.com/ShiFengShuA/LikeGirl-CE`同步
+
 ### CE-Adapted-1.0.2
 - 更换新的API
 - 注：目前尚未找到可长期使用的稳定API，所以API暂时换成了原项目的中转API
